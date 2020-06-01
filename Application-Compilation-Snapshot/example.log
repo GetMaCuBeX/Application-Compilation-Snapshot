@@ -1,0 +1,28 @@
+
+[ERROR] - 14 May 2020 22:43:42,791
+[main] [Log4jTest.java,  32, main()] - This is error : parameter/exception object
+java.lang.IllegalArgumentException: The file: Desktop doesn't exist.
+	at java.desktop/java.awt.Desktop.checkFileValidation(Desktop.java:367)
+	at java.desktop/java.awt.Desktop.open(Desktop.java:427)
+	at org.mcbx.test.log4j.Log4jTest.main(Log4jTest.java:30)
+
+[ERROR] - 14 May 2020 22:44:50,773
+[main] Log4jTest.java,  32, main() - This is error : parameter/exception object
+java.lang.IllegalArgumentException: The file: Desktop doesn't exist.
+	at java.desktop/java.awt.Desktop.checkFileValidation(Desktop.java:367)
+	at java.desktop/java.awt.Desktop.open(Desktop.java:427)
+	at org.mcbx.test.log4j.Log4jTest.main(Log4jTest.java:30)
+
+[ERROR] - 14 May 2020 22:45:45,635
+[main] [Log4jTest.java,  32, main()] - This is error : parameter/exception object
+java.lang.IllegalArgumentException: The file: Desktop doesn't exist.
+	at java.desktop/java.awt.Desktop.checkFileValidation(Desktop.java:367)
+	at java.desktop/java.awt.Desktop.open(Desktop.java:427)
+	at org.mcbx.test.log4j.Log4jTest.main(Log4jTest.java:30)
+
+[ERROR] - 14 May 2020 22:49:12,775
+[main] [Log4jTest.java,  32, main()] - This is error : parameter/exception object
+java.lang.IllegalArgumentException: The file: Desktop doesn't exist.
+	at java.desktop/java.awt.Desktop.checkFileValidation(Desktop.java:367)
+	at java.desktop/java.awt.Desktop.open(Desktop.java:427)
+	at org.mcbx.test.log4j.Log4jTest.main(Log4jTest.java:30)
