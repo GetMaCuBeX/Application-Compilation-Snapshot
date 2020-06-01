@@ -1,0 +1,131 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : May 2, 2020, 7:17:49 AM
+    Author     : MaCuBeX
+*/
+
+
+#closeWindow{
+    -fx-graphic: url("res/images/3.png");
+}
+#closeWindow:hover{
+    -fx-graphic: url("res/images/3h.png");
+}
+
+#closeWindow:pressed{
+    -fx-graphic: url("res/images/3p.png");
+}
+/**/
+#maximizeWindow{
+    -fx-graphic: url("res/images/2.png");
+}
+
+#maximizeWindow:hover{
+    -fx-graphic: url("res/images/2h.png");
+}
+
+#maximizeWindow:pressed{
+    -fx-graphic: url("res/images/2p.png");
+}
+/**/
+#iconifideWindow{
+    -fx-graphic: url("res/images/1.png");
+}
+
+#iconifideWindow:hover{
+    -fx-graphic: url("res/images/1h.png");
+}
+#iconifideWindow:pressed{
+    -fx-graphic: url("res/images/1p.png");
+}
+/**/
+#minimizeWindow{
+    -fx-graphic: url("res/images/4.png");
+}
+
+#minimizeWindow:hover{
+    -fx-graphic: url("res/images/4h.png");
+}
+
+#minimizeWindow:pressed{
+    -fx-graphic: url("res/images/4p.png");
+}
+
+
+#logoWindow{
+    -fx-graphic: url("res/images/4.png");
+}
+/**/
+
+
+#questionHelp{
+    -fx-graphic: url("res/images/questionHelp.png");
+}
+
+
+#navicon{
+    -fx-graphic: url("res/images/navicon.png");
+}
+
+#menubar{
+    -fx-background-color: rgba(55, 56, 55, 1);
+}
+
+.menu-bar{
+    -fx-use-system-menu-bar:true;
+    -fx-border:none;
+    -fx-background-color:#ececec;
+    -fx-border-style:null;
+    /*-fx-cursor:hand;*/
+    -fx-padding:0px;
+    -fx-spacing: 2;
+}
+
+.menu-bar .label{
+    -fx-text-fill: white;
+}
+
+
+.menu-item{
+    -fx-pref-width:220px;
+    -fx-background-insets:0px 0px 0px 0px;
+    /*-fx-background-color:#ececec;*/
+    -fx-background-color:#373837;
+    -fx-padding:5px 0px 5px 30px;
+    -fx-border:none;
+}
+.menu-item:hover{
+    /*-fx-background-color:#C0E0F1;*/
+    -fx-background-color:#0096C9;
+}
+.menu .context-menu {
+    -fx-padding: 0 0 0 0;
+}
+.menu-item .label
+{
+    /*-fx-text-fill: black;*/
+    -fx-text-fill: white;
+}
+
+#textfieldSearch{
+
+}
+
+#hboxTop{
+
+
+}
+
+
+
+/*
+#closeWindow:h ,#maximizeWindow:h ,#minimizeWindow:h, #navicon:h{
+   -fx-background-color:  #282923;
+
+}
+
+*/

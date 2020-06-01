@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>Application-Compilation-Snapshot</name>
+            <explicit-platform explicit-source-supported="true"/>
+            <source-roots>
+                <root id="src.cfg.dir" name="Config Packages"/>
+                <root id="src.res.dir" name="Resource Packages"/>
+                <root id="src.dir"/>
+            </source-roots>
+            <test-roots/>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>ConsoleAppender</word>
+            <word>LevelRangeFilter</word>
+            <word>PatternLayout</word>
+            <word>StdoutDebug</word>
+            <word>StdoutFatalError</word>
+            <word>StdoutInfo</word>
+            <word>StdoutTrace</word>
+            <word>StdoutWarn</word>
+            <word>yyyy</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>

@@ -1,0 +1,3 @@
+org.mcbx.test.hibernate.test.entity.Authors=javax.persistence.Entity,javax.persistence.Table,javax.xml.bind.annotation.XmlRootElement,javax.persistence.NamedQueries
+org.mcbx.test.hibernate.test.entity.Members=javax.persistence.Entity,javax.persistence.Table,javax.xml.bind.annotation.XmlRootElement,javax.persistence.NamedQueries
+org.mcbx.test.hibernate.test.service.AuthorsService=org.springframework.stereotype.Component
